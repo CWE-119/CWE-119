@@ -1,5 +1,15 @@
-### Hi there 👋
-
+### Improper Restriction of Operations within the Bounds of a Memory Buffer (aka. CWE-119)
+- no future no past only present is reality 
+```rust
+use std::io;
+fn every_wakey_wakey(){
+  pirntln!(" AAAHHH shit !!! here we go again ")
+}
+```
+<p align="left"> 
+  C4 timer<br>
+  <img src="https://profile-counter.glitch.me/SamiulNahiyan/count.svg" />
+</p>
 <!--
 **CWE-119/CWE-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
