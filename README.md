@@ -1,11 +1,14 @@
 ### Improper Restriction of Operations within the Bounds of a Memory Buffer (aka. CWE-119)
-- no future no past only present is reality 
+- no future no past only present is reality.....
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/449113066999775232)](https://discord.com/users/449113066999775232)
 ```rust
 use std::io;
 fn every_wakey_wakey(){
   pirntln!(" AAAHHH shit !!! here we go again ")
 }
 ```
+
 <p align="left"> 
   C4 timer<br>
   <img src="https://profile-counter.glitch.me/SamiulNahiyan/count.svg" />
