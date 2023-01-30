@@ -26,7 +26,7 @@ fn every_wakey_wakey(){
     
     match io::stdin().read_line(&mut input) {
         Ok(_) => {
-            println!(" {} Wakey Wakey get up for school ", input)
+            println!(" {} Wakey Wakey!!! time for school ", input)
         },
         
         Err(e) => println!("{} , Ahh shit !!! Here we go again ", e)
