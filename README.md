@@ -9,8 +9,27 @@
 
 ```rust
 use std::io;
+
+fn main(){
+
+  every_wakey_wakey();
+  
+}
+
 fn every_wakey_wakey(){
-  pirntln!(" AAAHHH shit !!! here we go again ")
+    
+    let mut input = String::new();
+
+    println!("your name here mate:");
+
+    
+    match io::stdin().read_line(&mut input) {
+        Ok(_) => {
+            println!(" {} Wakey Wakey get up for school ", input)
+        },
+        
+        Err(e) => println!("{} , Ahh shit !!! Here we go again ", e)
+    }
 }
 ```
 
