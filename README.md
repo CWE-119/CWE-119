@@ -1,6 +1,7 @@
 ### Improper Restriction of Operations within the Bounds of a Memory Buffer (aka. CWE-119)
 - no future no past only present is reality.....
-
+- always use dark mode to keep your eyes healthy
+- 
  [![Discord Presence](https://lanyard.cnrad.dev/api/449113066999775232)](https://discord.com/users/449113066999775232)
 
 <p align="left">
