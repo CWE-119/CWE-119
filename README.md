@@ -6,7 +6,7 @@
  [![Discord Presence](https://raw.githubusercontent.com/CWE-119/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 <p align="left">
-  <img src="https://64.media.tumblr.com/92d2d43c3357c621fc3beec49b6c7850/tumblr_oi8o5utf9V1qfec8jo1_1280.gif">
+  <#img src="https://64.media.tumblr.com/92d2d43c3357c621fc3beec49b6c7850/tumblr_oi8o5utf9V1qfec8jo1_1280.gif">
 </p> 
 
 ```rust
